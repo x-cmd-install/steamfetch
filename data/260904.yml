@@ -7,7 +7,7 @@ about:
   head: 7d3be6b
   archived: false
   latestVersion: v0.5.6
-  collectedAt: 2026-09-04T19:56:58Z
+  collectedAt: 2026-09-04T20:42:21Z
 timeline:
   created: 2026-02-05
   lastCommit: 2026-08-24
@@ -82,5 +82,43 @@ total:
   openIssue: 6
   commit: 282
 ---
+path: /home/runner/.x-repo/github.com/unhappychoice/steamfetch
+collectedAt: 2026-09-04T20:42:21Z
+loc:
+  Rust:
+    code: 7259
+    comments: 422
+    blanks: 1062
+    files: 13
+  Sh:
+    code: 249
+    comments: 24
+    blanks: 49
+    files: 2
+  Svg:
+    code: 132
+    comments: 5
+    blanks: 6
+    files: 1
+  Nix:
+    code: 79
+    comments: 6
+    blanks: 15
+    files: 1
+  Toml:
+    code: 31
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 416
+    blanks: 204
+    files: 2
+total:
+  code: 7778
+  comments: 907
+  blanks: 1347
+  files: 20
 ---
 
