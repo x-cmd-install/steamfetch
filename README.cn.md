@@ -12,6 +12,18 @@ neofetch for Steam - Display your Steam stats in terminal
 x install steamfetch
 ```
 
+## 代码规模
+
+合计: **7,750** 行代码（覆盖前 5 种语言、共 **18** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 7,259 | 422 | 1,062 | 13 |
+| Sh | 249 | 24 | 49 | 2 |
+| Svg | 132 | 5 | 6 | 1 |
+| Nix | 79 | 6 | 15 | 1 |
+| Toml | 31 | 0 | 1 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/unhappychoice/steamfetch>
@@ -22,15 +34,6 @@ x install steamfetch
 - **最新版本**: `v0.5.6` (2026-07-25)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 4 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [steamfetch-v0.5.6-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.6/steamfetch-v0.5.6-aarch64-apple-darwin.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
-| [steamfetch-v0.5.6-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.6/steamfetch-v0.5.6-x86_64-apple-darwin.tar.gz) | 5.8 MiB | `native/darwin/x64` |
-| [steamfetch-v0.5.6-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.6/steamfetch-v0.5.6-x86_64-pc-windows-msvc.zip) | 5.4 MiB | `native/win/x64` |
-| [steamfetch-v0.5.6-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.6/steamfetch-v0.5.6-x86_64-unknown-linux-gnu.tar.gz) | 6.1 MiB | `native/linux/x64/glibc` |
 
 ## 流行度
 
@@ -45,20 +48,20 @@ x install steamfetch
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 6 | 1 | 0 | 0 | 4 |
+| last60d | 2026-07-12 | 1 | 20 | 1 | 0 | 0 | 21 |
 | 90d | 2026-06-12 | 1 | 24 | 1 | 0 | 0 | 25 |
+| last180d | 2026-03-14 | 4 | 50 | 1 | 0 | 1 | 159 |
 | 360d | 2025-09-15 | 20 | 64 | 1 | 10 | 6 | 232 |
+| last720d | 2024-09-20 | 20 | 64 | 1 | 10 | 6 | 286 |
 
-## 代码规模
+## Release 资产
 
-合计: **7,750** 行代码（覆盖前 5 种语言、共 **18** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 7,259 | 422 | 1,062 | 13 |
-| Sh | 249 | 24 | 49 | 2 |
-| Svg | 132 | 5 | 6 | 1 |
-| Nix | 79 | 6 | 15 | 1 |
-| Toml | 31 | 0 | 1 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [steamfetch-v0.5.6-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.6/steamfetch-v0.5.6-aarch64-apple-darwin.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
+| [steamfetch-v0.5.6-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.6/steamfetch-v0.5.6-x86_64-apple-darwin.tar.gz) | 5.8 MiB | `native/darwin/x64` |
+| [steamfetch-v0.5.6-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.6/steamfetch-v0.5.6-x86_64-pc-windows-msvc.zip) | 5.4 MiB | `native/win/x64` |
+| [steamfetch-v0.5.6-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.6/steamfetch-v0.5.6-x86_64-unknown-linux-gnu.tar.gz) | 6.1 MiB | `native/linux/x64/glibc` |
 
 ## 改进这些数据
 
@@ -69,4 +72,4 @@ steamfetch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:38:29Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:46:35Z._
