@@ -32,7 +32,7 @@ Total: **7,750** lines of code across **18** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.6` (2026-07-25)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-16
 - **Assets in release**: 4
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **7,750** lines of code across **18** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 71 · **Open PRs**: 1 · **Closed issues**: 10 · **Open issues**: 6 · **Commits**: 300
+- **Releases**: 20 · **Merged PRs**: 72 · **Open PRs**: 0 · **Closed issues**: 10 · **Open issues**: 6 · **Commits**: 302
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 4 | 1 | 0 | 0 | 4 |
-| last60d | 2026-08-17 | 0 | 10 | 1 | 0 | 0 | 10 |
-| 90d | 2026-07-18 | 1 | 25 | 1 | 0 | 0 | 26 |
-| last180d | 2026-04-19 | 4 | 57 | 1 | 0 | 1 | 162 |
-| 360d | 2025-10-21 | 20 | 71 | 1 | 10 | 6 | 239 |
-| last720d | 2024-10-26 | 20 | 71 | 1 | 10 | 6 | 300 |
+| 30d | 2026-09-17 | 0 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-18 | 0 | 11 | 0 | 0 | 0 | 11 |
+| 90d | 2026-07-19 | 1 | 26 | 0 | 0 | 0 | 27 |
+| last180d | 2026-04-20 | 4 | 57 | 0 | 0 | 1 | 163 |
+| 360d | 2025-10-22 | 20 | 72 | 0 | 10 | 6 | 240 |
+| last720d | 2024-10-27 | 20 | 72 | 0 | 10 | 6 | 302 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for steamfetch lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:34:06Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:24:24Z._
