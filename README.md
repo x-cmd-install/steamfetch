@@ -47,12 +47,12 @@ Total: **7,750** lines of code across **18** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 5 | 0 | 0 | 1 | 5 |
-| last60d | 2026-08-31 | 0 | 11 | 0 | 0 | 1 | 11 |
-| 90d | 2026-08-01 | 0 | 17 | 0 | 0 | 1 | 17 |
-| last180d | 2026-05-03 | 1 | 56 | 0 | 0 | 2 | 110 |
-| 360d | 2025-11-04 | 20 | 73 | 0 | 10 | 7 | 241 |
-| last720d | 2024-11-09 | 20 | 73 | 0 | 10 | 7 | 304 |
+| 30d | 2026-10-01 | 0 | 5 | 0 | 0 | 1 | 5 |
+| last60d | 2026-09-01 | 0 | 11 | 0 | 0 | 1 | 11 |
+| 90d | 2026-08-02 | 0 | 17 | 0 | 0 | 1 | 17 |
+| last180d | 2026-05-04 | 1 | 56 | 0 | 0 | 2 | 110 |
+| 360d | 2025-11-05 | 20 | 73 | 0 | 10 | 7 | 241 |
+| last720d | 2024-11-10 | 20 | 73 | 0 | 10 | 7 | 304 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for steamfetch lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:48:16Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:37:25Z._
