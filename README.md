@@ -14,11 +14,11 @@ x install steamfetch
 
 ## Code insight
 
-Total: **7,750** lines of code across **18** files in the top 5 languages.
+Total: **7,747** lines of code across **18** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 7,259 | 422 | 1,062 | 13 |
+| Rust | 7,256 | 422 | 1,062 | 13 |
 | Sh | 249 | 24 | 49 | 2 |
 | Svg | 132 | 5 | 6 | 1 |
 | Nix | 79 | 6 | 15 | 1 |
@@ -31,8 +31,8 @@ Total: **7,750** lines of code across **18** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.5.6` (2026-07-25)
-- **Last commit**: 2026-11-10
+- **Latest**: `v0.5.8` (2026-11-14)
+- **Last commit**: 2026-11-14
 - **Assets in release**: 4
 
 ## Popularity
@@ -41,27 +41,27 @@ Total: **7,750** lines of code across **18** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 76 · **Open PRs**: 0 · **Closed issues**: 10 · **Open issues**: 7 · **Commits**: 310
+- **Releases**: 21 · **Merged PRs**: 77 · **Open PRs**: 0 · **Closed issues**: 10 · **Open issues**: 7 · **Commits**: 315
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 4 | 0 | 0 | 1 | 4 |
-| last60d | 2026-09-15 | 0 | 9 | 0 | 0 | 1 | 9 |
-| 90d | 2026-08-16 | 0 | 16 | 0 | 0 | 1 | 16 |
-| last180d | 2026-05-18 | 1 | 39 | 0 | 0 | 1 | 40 |
-| 360d | 2025-11-19 | 20 | 76 | 0 | 10 | 7 | 244 |
-| last720d | 2024-11-24 | 20 | 76 | 0 | 10 | 7 | 310 |
+| 30d | 2026-10-16 | 1 | 5 | 0 | 0 | 1 | 7 |
+| last60d | 2026-09-16 | 1 | 10 | 0 | 0 | 1 | 13 |
+| 90d | 2026-08-17 | 1 | 16 | 0 | 0 | 1 | 19 |
+| last180d | 2026-05-19 | 2 | 40 | 0 | 0 | 1 | 43 |
+| 360d | 2025-11-20 | 21 | 77 | 0 | 10 | 7 | 248 |
+| last720d | 2024-11-25 | 21 | 77 | 0 | 10 | 7 | 315 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [steamfetch-v0.5.6-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.6/steamfetch-v0.5.6-aarch64-apple-darwin.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
-| [steamfetch-v0.5.6-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.6/steamfetch-v0.5.6-x86_64-apple-darwin.tar.gz) | 5.8 MiB | `native/darwin/x64` |
-| [steamfetch-v0.5.6-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.6/steamfetch-v0.5.6-x86_64-pc-windows-msvc.zip) | 5.4 MiB | `native/win/x64` |
-| [steamfetch-v0.5.6-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.6/steamfetch-v0.5.6-x86_64-unknown-linux-gnu.tar.gz) | 6.1 MiB | `native/linux/x64/glibc` |
+| [steamfetch-v0.5.8-aarch64-apple-darwin.tar.gz](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.8/steamfetch-v0.5.8-aarch64-apple-darwin.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
+| [steamfetch-v0.5.8-x86_64-apple-darwin.tar.gz](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.8/steamfetch-v0.5.8-x86_64-apple-darwin.tar.gz) | 4.3 MiB | `native/darwin/x64` |
+| [steamfetch-v0.5.8-x86_64-pc-windows-msvc.zip](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.8/steamfetch-v0.5.8-x86_64-pc-windows-msvc.zip) | 5.3 MiB | `native/win/x64` |
+| [steamfetch-v0.5.8-x86_64-unknown-linux-gnu.tar.gz](https://github.com/unhappychoice/steamfetch/releases/download/v0.5.8/steamfetch-v0.5.8-x86_64-unknown-linux-gnu.tar.gz) | 6.0 MiB | `native/linux/x64/glibc` |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for steamfetch lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:28:22Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:33:52Z._
