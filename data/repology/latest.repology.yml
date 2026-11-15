@@ -2,8 +2,8 @@
   srcname: steamfetch
   binname: steamfetch
   visiblename: steamfetch
-  version: 0.5.6
-  origversion: 0.5.6-1
+  version: 0.5.8
+  origversion: 0.5.8-1
   status: unique
   summary: neofetch for Steam - Display your Steam stats in terminal with style.
   maintainers:
@@ -14,8 +14,8 @@
   srcname: steamfetch-bin
   binname: steamfetch-bin
   visiblename: steamfetch-bin
-  version: 0.5.6
-  origversion: 0.5.6-1
+  version: 0.5.8
+  origversion: 0.5.8-1
   status: unique
   summary: neofetch for Steam - Display your Steam stats in terminal
   maintainers:
