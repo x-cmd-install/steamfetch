@@ -14,11 +14,11 @@ x install steamfetch
 
 ## Code insight
 
-Total: **7,747** lines of code across **18** files in the top 5 languages.
+Total: **7,756** lines of code across **18** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 7,256 | 422 | 1,062 | 13 |
+| Rust | 7,265 | 422 | 1,064 | 13 |
 | Sh | 249 | 24 | 49 | 2 |
 | Svg | 132 | 5 | 6 | 1 |
 | Nix | 79 | 6 | 15 | 1 |
@@ -32,7 +32,7 @@ Total: **7,747** lines of code across **18** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.8` (2026-11-14)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-21
 - **Assets in release**: 4
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **7,747** lines of code across **18** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 78 · **Open PRs**: 0 · **Closed issues**: 10 · **Open issues**: 7 · **Commits**: 317
+- **Releases**: 21 · **Merged PRs**: 79 · **Open PRs**: 0 · **Closed issues**: 10 · **Open issues**: 7 · **Commits**: 319
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 5 | 0 | 0 | 1 | 8 |
-| last60d | 2026-09-21 | 1 | 11 | 0 | 0 | 1 | 14 |
-| 90d | 2026-08-22 | 1 | 17 | 0 | 0 | 1 | 20 |
-| last180d | 2026-05-24 | 2 | 40 | 0 | 0 | 1 | 44 |
-| 360d | 2025-11-25 | 21 | 78 | 0 | 10 | 7 | 249 |
-| last720d | 2024-11-30 | 21 | 78 | 0 | 10 | 7 | 317 |
+| 30d | 2026-10-22 | 1 | 6 | 0 | 0 | 1 | 9 |
+| last60d | 2026-09-22 | 1 | 12 | 0 | 0 | 1 | 15 |
+| 90d | 2026-08-23 | 1 | 18 | 0 | 0 | 1 | 21 |
+| last180d | 2026-05-25 | 2 | 41 | 0 | 0 | 1 | 45 |
+| 360d | 2025-11-26 | 21 | 79 | 0 | 10 | 7 | 250 |
+| last720d | 2024-12-01 | 21 | 79 | 0 | 10 | 7 | 319 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for steamfetch lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:23:36Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:06:53Z._
