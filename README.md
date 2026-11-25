@@ -41,18 +41,18 @@ Total: **7,756** lines of code across **18** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 79 · **Open PRs**: 0 · **Closed issues**: 10 · **Open issues**: 7 · **Commits**: 319
+- **Releases**: 21 · **Merged PRs**: 79 · **Open PRs**: 1 · **Closed issues**: 10 · **Open issues**: 7 · **Commits**: 319
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 6 | 0 | 0 | 1 | 9 |
-| last60d | 2026-09-25 | 1 | 12 | 0 | 0 | 1 | 14 |
-| 90d | 2026-08-26 | 1 | 17 | 0 | 0 | 1 | 20 |
-| last180d | 2026-05-28 | 2 | 40 | 0 | 0 | 1 | 44 |
-| 360d | 2025-11-29 | 21 | 79 | 0 | 10 | 7 | 250 |
-| last720d | 2024-12-04 | 21 | 79 | 0 | 10 | 7 | 319 |
+| 30d | 2026-10-26 | 1 | 6 | 1 | 0 | 1 | 9 |
+| last60d | 2026-09-26 | 1 | 12 | 1 | 0 | 1 | 14 |
+| 90d | 2026-08-27 | 1 | 17 | 1 | 0 | 1 | 20 |
+| last180d | 2026-05-29 | 2 | 40 | 1 | 0 | 1 | 44 |
+| 360d | 2025-11-30 | 21 | 79 | 1 | 10 | 7 | 250 |
+| last720d | 2024-12-05 | 21 | 79 | 1 | 10 | 7 | 319 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for steamfetch lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:20:32Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:34:40Z._
