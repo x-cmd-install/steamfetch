@@ -37,7 +37,7 @@ Total: **7,756** lines of code across **18** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 199 · **Forks**: 6 · **Open issues**: 17 · **Contributors**: 5
+- **Stars**: 200 · **Forks**: 6 · **Open issues**: 17 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **7,756** lines of code across **18** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 6 | 1 | 0 | 1 | 9 |
-| last60d | 2026-09-26 | 1 | 12 | 1 | 0 | 1 | 14 |
-| 90d | 2026-08-27 | 1 | 17 | 1 | 0 | 1 | 20 |
-| last180d | 2026-05-29 | 2 | 40 | 1 | 0 | 1 | 44 |
-| 360d | 2025-11-30 | 21 | 79 | 1 | 10 | 7 | 250 |
-| last720d | 2024-12-05 | 21 | 79 | 1 | 10 | 7 | 319 |
+| 30d | 2026-10-27 | 1 | 6 | 1 | 0 | 1 | 9 |
+| last60d | 2026-09-27 | 1 | 12 | 1 | 0 | 1 | 14 |
+| 90d | 2026-08-28 | 1 | 17 | 1 | 0 | 1 | 20 |
+| last180d | 2026-05-30 | 2 | 40 | 1 | 0 | 1 | 44 |
+| 360d | 2025-12-01 | 21 | 79 | 1 | 10 | 7 | 250 |
+| last720d | 2024-12-06 | 21 | 79 | 1 | 10 | 7 | 319 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for steamfetch lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:34:40Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:42:32Z._
