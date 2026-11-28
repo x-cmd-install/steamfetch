@@ -1,0 +1,127 @@
+about:
+  description: "neofetch for Steam - Display your Steam stats in terminal"
+  license: ISC
+  homepage: 
+  head: c354317
+  archived: false
+  latestVersion: "v0.5.8"
+  latestRelease: "v0.5.8"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:11:41Z
+timeline:
+  created: 2026-02-05
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-14
+  lastRelease: 2026-11-14
+  lastPrerelease: 
+popularity:
+  star: 201
+  watcher: 3
+  fork: 6
+  release: 21
+  contributor: 5
+  pullRequest: 81
+  issue: 17
+language:
+  Rust: 312291
+  Shell: 10259
+  Nix: 2606
+totalBytes: 325156
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 1
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 11
+  last60d:
+    since: 2026-09-29
+    release: 1
+    mergedPR: 13
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 16
+  last90d:
+    since: 2026-08-30
+    release: 1
+    mergedPR: 19
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 22
+  last180d:
+    since: 2026-06-01
+    release: 2
+    mergedPR: 42
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 46
+  last360d:
+    since: 2025-12-03
+    release: 21
+    mergedPR: 81
+    openPR: 0
+    closedIssue: 10
+    openIssue: 7
+    commit: 252
+  last720d:
+    since: 2024-12-08
+    release: 21
+    mergedPR: 81
+    openPR: 0
+    closedIssue: 10
+    openIssue: 7
+    commit: 323
+total:
+  release: 21
+  mergedPR: 81
+  openPR: 0
+  closedIssue: 10
+  openIssue: 7
+  commit: 323
+---
+path: /home/runner/.x-repo/github.com/unhappychoice/steamfetch
+collectedAt: 2026-11-28T08:11:42Z
+loc:
+  Rust:
+    code: 7265
+    comments: 422
+    blanks: 1064
+    files: 13
+  Sh:
+    code: 249
+    comments: 24
+    blanks: 49
+    files: 2
+  Svg:
+    code: 132
+    comments: 5
+    blanks: 6
+    files: 1
+  Nix:
+    code: 79
+    comments: 6
+    blanks: 15
+    files: 1
+  Toml:
+    code: 31
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 440
+    blanks: 202
+    files: 2
+total:
+  code: 7784
+  comments: 931
+  blanks: 1347
+  files: 20
+---
+
+---
